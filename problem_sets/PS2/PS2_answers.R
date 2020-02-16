@@ -34,7 +34,7 @@ table1results<-matrix(c(.322,-1.642,1.523,-.322,1.642,-1.523),ncol=3,byrow=TRUE)
 rownames(table1results)<-c("Upper Class","Lower Class")
 colnames(table1results)<-c("Not Stopped","Bribe Requested","Stopped/Given Warning")
 table1<-as.table(table1results)
-table1 
+View(table1)
 
 #Part d 
 #They provide a sense of how far each estimate is from the center of the chi squared distribution. Since none of them are that large, we can infer that they are fairly close to this center and thus these results are perfectly reasonable assuming H0 is true.
@@ -117,7 +117,7 @@ confint(model1,level=.9)
 
 #part f 
 
-#individual fruitfly
+#fitted model
 Fit<-predict(lm(fruitfly$lifespan~fruitfly$thorax),newdata=fruitfly,se.fit=TRUE) 
 Fit
 #the model predicts a lifespan of 48.641 days 

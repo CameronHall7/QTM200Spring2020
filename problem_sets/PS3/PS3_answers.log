@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.28)  16 FEB 2020 16:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.28)  16 FEB 2020 17:01
 entering extended mode
-**./PS2_answers.tex
-(PS2_answers.tex
+**./PS3_answers.tex
+(PS3_answers.tex
 LaTeX2e <2019-10-01> patch level 3
 ("C:\Users\camer\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
@@ -1044,8 +1044,8 @@ File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
 Package: listings 2019/09/10 1.8c (Carsten Heinz)
 \c@hyp=\count163
- (PS2_answers.aux)
-\openout1 = `PS2_answers.aux'.
+ (PS3_answers.aux)
+\openout1 = `PS3_answers.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
@@ -1132,16 +1132,14 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 67.
 LaTeX Info: Redefining \pageref on input line 67.
 LaTeX Info: Redefining \nameref on input line 67.
- (PS2_answers.out) (PS2_answers.out)
+ (PS3_answers.out) (PS3_answers.out)
 \@outlinefile=\write7
-\openout7 = `PS2_answers.out'.
+\openout7 = `PS3_answers.out'.
 
 
 ABD: EveryShipout initializing macros
 \c@lstlisting=\count171
- [1
 
-{C:/Users/camer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 ("C:\Users\camer\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
 sty"
 File: lstlang1.sty 2019/09/10 1.8c listings language file
@@ -1155,79 +1153,85 @@ sty"
 File: lstlang3.sty 2019/09/10 1.8c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 102.
- (PS3_answers.R)
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
-
- []
-
-(PS2_answers.R) [2] (PS2_answers.R
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
-3.
+nput line 89.
+ (PS3_answers.R
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 9
+.
 
 ("C:\Users\camer\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 33.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 9.
 )
-(PS2_answers.R [3]) [4]
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+[1
 
- []
-
-<women_desc.png, id=67, 750.805pt x 300.12125pt>
-File: women_desc.png Graphic file (type png)
-<use women_desc.png>
-Package pdftex.def Info: women_desc.png  used on input line 158.
-(pdftex.def)             Requested size: 516.73338pt x 206.5664pt.
-
-Overfull \hbox (46.97836pt too wide) in paragraph at lines 158--159
- [][] 
- []
-
-[5 <./women_desc.png>] (PS2_answers.R) (PS2_answers.R) [6] (PS2_answers.R)
-[7] (PS2_answers.R) [8] (PS2_answers.R)
-<Lifespan vs Thorax.png, id=124, 639.89063pt x 406.51875pt>
-File: Lifespan vs Thorax.png Graphic file (type png)
-<use Lifespan vs Thorax.png>
-Package pdftex.def Info: Lifespan vs Thorax.png  used on input line 210.
+{C:/Users/camer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(PS3_answers.R)
+<plot1.png, id=25, 639.89063pt x 406.51875pt>
+File: plot1.png Graphic file (type png)
+<use plot1.png>
+Package pdftex.def Info: plot1.png  used on input line 97.
 (pdftex.def)             Requested size: 479.91678pt x 304.8883pt.
 
-Overfull \hbox (39.53645pt too wide) in paragraph at lines 210--211
+Overfull \hbox (39.53645pt too wide) in paragraph at lines 97--98
+[][] 
+ []
+
+(PS3_answers.R) [2 <./plot1.png>] (PS3_answers.R) [3] (PS3_answers.R)
+(PS3_answers.R)
+<plot2.png, id=50, 639.89063pt x 406.51875pt>
+File: plot2.png Graphic file (type png)
+<use plot2.png>
+Package pdftex.def Info: plot2.png  used on input line 124.
+(pdftex.def)             Requested size: 479.91678pt x 304.8883pt.
+
+Overfull \hbox (39.53645pt too wide) in paragraph at lines 124--125
 [] 
  []
 
-[9 <./Lifespan vs Thorax.png>] (PS2_answers.R) (PS2_answers.R) [10]
-(PS2_answers.R) (PS2_answers.R) [11] (PS2_answers.R)
-<Fit Plot.png, id=183, 639.89063pt x 406.51875pt>
-File: Fit Plot.png Graphic file (type png)
-<use Fit Plot.png>
-Package pdftex.def Info: Fit Plot.png  used on input line 251.
+[4] (PS3_answers.R) [5 <./plot2.png>] (PS3_answers.R) [6] (PS3_answers.R)
+(PS3_answers.R)
+<plot3.png, id=83, 639.89063pt x 406.51875pt>
+File: plot3.png Graphic file (type png)
+<use plot3.png>
+Package pdftex.def Info: plot3.png  used on input line 156.
 (pdftex.def)             Requested size: 479.91678pt x 304.8883pt.
 
-Overfull \hbox (39.53645pt too wide) in paragraph at lines 251--252
+Overfull \hbox (39.53645pt too wide) in paragraph at lines 156--157
+[][] 
+ []
+
+[7] (PS3_answers.R) [8 <./plot3.png>] (PS3_answers.R) (PS3_answers.R)
+<plot4.png, id=108, 639.89063pt x 406.51875pt>
+File: plot4.png Graphic file (type png)
+<use plot4.png>
+Package pdftex.def Info: plot4.png  used on input line 178.
+(pdftex.def)             Requested size: 479.91678pt x 304.8883pt.
+
+Overfull \hbox (39.53645pt too wide) in paragraph at lines 178--179
 [] 
  []
 
-[12 <./Fit Plot.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
- (PS2_answers.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
-Package rerunfilecheck Info: File `PS2_answers.out' has not changed.
+[9] (PS3_answers.R) [10 <./plot4.png>] (PS3_answers.R) (PS3_answers.R) [11]
+(PS3_answers.R) [12]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 211.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 211.
+ (PS3_answers.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 211.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 211.
+Package rerunfilecheck Info: File `PS3_answers.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
  ) 
 Here is how much of TeX's memory you used:
- 24051 strings out of 492484
- 420969 string characters out of 3121601
- 750489 words of memory out of 3000000
- 27753 multiletter control sequences out of 15000+200000
- 15070 words of font info for 62 fonts, out of 3000000 for 9000
+ 23994 strings out of 492484
+ 420339 string characters out of 3121601
+ 737440 words of memory out of 3000000
+ 27723 multiletter control sequences out of 15000+200000
+ 14724 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,60p,3245b,1983s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,6n,60p,3245b,2194s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\camer\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1000.pk> <C:\Users\camer\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
 ec/dpi600\tcrm1200.pk><C:/Users/camer/AppData/Local/Programs/MiKTeX 2.9/fonts/t
@@ -1239,15 +1243,11 @@ ers/camer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 2.pfb><C:/Users/camer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmr17.pfb><C:/Users/camer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmr6.pfb><C:/Users/camer/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/camer/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/camer/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/camer
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
-:/Users/camer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmtt12.pfb>
-Output written on PS2_answers.pdf (12 pages, 213960 bytes).
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/camer/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on PS3_answers.pdf (12 pages, 198747 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
- 124 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 212 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
