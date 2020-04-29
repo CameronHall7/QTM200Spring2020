@@ -27,27 +27,23 @@ pkgTest <- function(pkg){
 # ex: stringr
 # lapply(c("stringr"),  pkgTest)
 
-lapply(c("sjPlot", "googleVis"),  pkgTest)
-
-# set working directory
-setwd("~/Documents/GitHub/QTM200Spring2020/problem_sets/PS7")
+lapply(c(),  pkgTest)
 
 
-
-library("lme4")
-library("ggplot2")
-library("googleVis")
-library("sjPlot")
 
 #####################
 # Problem 1
 #####################
 
 
-mexico_elections <- read.csv("MexicoMuniData.csv", stringsAsFactors = F, header=T)
+mexico_elections <- read.csv("MexicoMuniData.csv", stringsAsFactors = F, header=T) 
+
+#Part a: Run a Poisson regression because the outcome is a count variable. Is there evidence that PAN presidential candidates visit swing districts more? Provide a test statistic and p-value.
+
+model1<-glm(PAN.visits.06~competitive.district + marginality.06 + PAN.governor.06, family="poisson",data=mexico_elections)
 
 #####################
-# Problem 1
+# Problem 2
 #####################
 
 sleepstudy <- sleepstudy
